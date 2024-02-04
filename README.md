@@ -5,3 +5,4 @@
 Para instalar, descargar los ejecutables y escribir en consola:
 
 `npm install`
+Sistema de registro
